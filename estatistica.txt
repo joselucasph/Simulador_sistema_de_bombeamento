@@ -1,0 +1,10 @@
+fase A	 fase B	 fase C	 boia	 poco
+350 V	 350 V	 350 V	 0 V	 12 V
+5 A	 5 A	 5 A
+ bomba desligada	  	  
+ reservatorio cheia 
+   
+a caixa encheu 1 vezes. 
+A caixa secou 0 vezes
+A bomba ficou ligada 2 horas
+Foram consumidos 8000 litros de agua
