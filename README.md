@@ -6,7 +6,7 @@ Este é um programa em C que simula o funcionamento de um sistema para controlar
 
 -  nível do reservatório.
 
--  amperagem (A) da bomba.
+-  corrente (A) da Bomba
 
 - submersão da bomba. 
 
